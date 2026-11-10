@@ -1,0 +1,17 @@
+# Archivos compilados y de salida
+out/
+bin/
+*.class
+
+# Archivos que genera la extensión de Java de VS Code
+.classpath
+.project
+.settings/
+
+# IntelliJ y otros editores
+.idea/
+*.iml
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
